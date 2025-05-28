@@ -1,4 +1,3 @@
-![logo](https://github.com/souvik-3011/souvik-3011/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Souvik Koley</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
