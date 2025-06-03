@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img alt="hi" width="20" height="30" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif">, I'm Souvik Koley</h1>
+<h1 align="center">Hi <img alt="hi" width="30" height="40" src="https://i.pinimg.com/originals/73/95/d8/7395d81dfeecbcf73115d98aa4aa5fb1.gif">, I'm Souvik Koley</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 - 🌱 I’m currently learning **Redux**
